@@ -1,6 +1,6 @@
 {
   "name": "adapt-authoring-react",
-  "name": "Hello react",
+  "description": "Hello react",
   "version": "0.0.1",
   "scripts": {
     "start": "react-scripts start",
