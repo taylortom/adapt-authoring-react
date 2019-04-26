@@ -8,6 +8,13 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "adapt_authoring": {
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "include": "lib/*"
+    }
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
