@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
+    "build": "node scripts/build.js && mv build/index.html build/app.html",
     "test": "node scripts/test.js"
   },
   "adapt_authoring": {
